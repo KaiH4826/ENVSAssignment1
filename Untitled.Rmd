@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### 13 September 2020
 ##### https://www.livescience.com/la-nina-hurricane-season.html
 
+#### document github link: https://github.com/KaiH4826/ENVSAssignment1/commits/master
 ***
 #### Introduction
 This article explores the possibility of the recently returned climate pattern called La Niña within the currents of the Pacific Ocean negatively influencing the upcoming growing season on the west coast with droughts as well as increased violence in the current and future hurricane season. Part of a back and forth cycle affecting sea surface temperatures and the climate surrounding the Pacific (ENSO) El Niño is the largest part of the cycle, lasting around a two-year period that brings warm water to the equator, while La Nina comes around every few years for only a few months to bring colder water. The affect this has can greatly influence the frequency and strength of upcoming hurricane seasons for better or worse.
