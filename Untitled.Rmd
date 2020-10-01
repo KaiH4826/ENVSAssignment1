@@ -1,0 +1,25 @@
+---
+title: "Assignment 1"
+author: Kaitlin Hourihan "KaiH4826"
+date: "29/09/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### La Niña may brew a more active hurricane season, worsen drought in the Southwest 
+##### Mindy Weisberger
+##### 13 September 2020
+##### https://www.livescience.com/la-nina-hurricane-season.html
+
+***
+#### Introduction
+
+#### Methods
+
+#### Results
+
+#### Conclusions
+
